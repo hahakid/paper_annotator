@@ -7,4 +7,6 @@ Very simple functions for adding prefix and postfix for mouse selected strings.
 
 Currently use py2.7 with Tkinter, feature cut version.
 
+![shortcut](/shortcut.png)
+
 Python 3 will be supported later if necessary. 
